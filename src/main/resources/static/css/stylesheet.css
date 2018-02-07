@@ -1,0 +1,34 @@
+h1{
+    font-weight:bold;
+    font-size:150px;
+    background-color:blue;
+
+}
+
+
+
+.headerclass{
+    color:#802934;
+
+}
+
+.greentext{
+    color: #2a8060;
+
+}
+
+#exampleInputEmail1{
+    color:brown;
+}
+
+body{
+    font-family: 'Pacifico', cursive;
+}
+
+.navbar
+{
+    background-color:purple;
+}
+p.vegie{
+    color:yellowgreen;
+}
